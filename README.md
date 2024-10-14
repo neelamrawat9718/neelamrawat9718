@@ -11,8 +11,8 @@ I am a Data Analyst with 3+ years of experience in data wrangling, analysis, and
 <h3>⚙️Skills</h3>
 <ul>
 <li>Language: SQL, Python</li>
-<li>Database: PostgreSQL, MySQL</li>
-<li>Visualization: Looker Studio, Tableau</li>
+<li>Database: PostgreSQL, MySQL, MDM </li>
+<li>Visualization: Looker Studio, Tableau,IBM Cognos</li>
 <li>Spreadsheet: MS Excel</li></ul>
 
 <h3>🕸️Let's Connect</h3>
