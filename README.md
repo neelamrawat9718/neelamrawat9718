@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![image](https://github.com/user-attachments/assets/3887ae1b-7a81-4ef0-a61e-237b6d457e1f)
 
-I am a Data Analyst with 5+ years of experience in data wrangling, analysis, and visualization. Proficient in Python, SQL, and data visualization libraries. Passionate about using data to solve real-world problems. Eager to contribute to open-source projects and collaborate with other analysts
+I am a Data Analyst with 3+ years of experience in data wrangling, analysis, and visualization. Proficient in Python, SQL, and data visualization libraries. Passionate about using data to solve real-world problems. Eager to contribute to open-source projects and collaborate with other analysts
 <ul>
 <li>SQL : Proficient in querying and manipulating data with SQL.</li>
 <li>Python : Utilizes Python for data analysis and visualizations.</li>
@@ -14,6 +14,12 @@ I am a Data Analyst with 5+ years of experience in data wrangling, analysis, and
 <li>Database: PostgreSQL, MySQL</li>
 <li>Visualization: Looker Studio, Tableau</li>
 <li>Spreadsheet: MS Excel</li></ul>
+
+<h3>🕸️Let's Connect</h3>
+<ul>
+ <li><a href="www.linkedin.com/in/neelam-rawat-3a365a19b/">Linkedln | Neelam Rawat</a><br></li>
+</ul>
+<!--
 
 
 
