@@ -1,19 +1,22 @@
 ## Hi there 👋
 ![image](https://github.com/user-attachments/assets/3887ae1b-7a81-4ef0-a61e-237b6d457e1f)
 
-I am a Data Analyst with 3+ years of experience in data wrangling, analysis, and visualization. Proficient in Python, SQL, and data visualization libraries. Passionate about using data to solve real-world problems. Eager to contribute to open-source projects and collaborate with other analysts
-<ul>
-<li>SQL : Proficient in querying and manipulating data with SQL.</li>
-<li>Python : Utilizes Python for data analysis and visualizations.</li>
-<li>Excel : Generates reports and performs data analysis using MS Excel.</li>
-<li>Tableau : Develops interactive dashboards using Tableau.</li>
+I am a Data Analyst with 3+ years of experience in data wrangling, analysis, and visualization. Proficient in Python, SQL, and data visualization libraries. Passionate about using data to solve real-world problems. Eager to contribute to open-source projects and collaborate with other analysts.
+- **SQL**: Skilled in extracting and managing data using SQL queries.
+- **Python**: Employs Python for data analysis and creating visual representations.
+- **Excel**: Conducts data analysis and creates reports with Microsoft Excel.
+- **Tableau**: Designs dynamic dashboards with Tableau for interactive data visualization.
+
 
 <h3>⚙️Skills</h3>
 <ul>
-<li>Language: SQL, Python</li>
-<li>Database: PostgreSQL, MySQL, MDM </li>
-<li>Visualization: Looker Studio, Tableau,IBM Cognos</li>
-<li>Spreadsheet: MS Excel</li></ul>
+  <li>Language: SQL, Python</li>
+  <li>Database: PostgreSQL, MySQL, MDM</li>
+  <li>Visualization: Looker Studio, Tableau, IBM Cognos</li>
+  <li>Spreadsheet: MS Excel</li>
+  <li>Project Management: Jira</li>
+</ul>
+
 
 <h3>🕸️Let's Connect</h3>
 <ul>
