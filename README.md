@@ -8,6 +8,13 @@ I am a Data Analyst with 5+ years of experience in data wrangling, analysis, and
 <li>Excel : Generates reports and performs data analysis using MS Excel.</li>
 <li>Tableau : Develops interactive dashboards using Tableau.</li>
 
+<h3>⚙️Skills</h3>
+<ul>
+<li>Language: SQL, Python</li>
+<li>Database: PostgreSQL, MySQL</li>
+<li>Visualization: Looker Studio, Tableau</li>
+<li>Spreadsheet: MS Excel</li></ul>
+
 
 
 
