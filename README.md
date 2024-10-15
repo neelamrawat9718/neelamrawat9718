@@ -17,6 +17,13 @@ I am a Data Analyst with 3+ years of experience in data wrangling, analysis, and
   <li>Project Management: Jira</li>
 </ul>
 
+<h3>🖇️Projects</h3>
+<ul>
+-[**Excel**](https://github.com/neelamrawat9718/Coffee-sales-project-using-Excel)
+
+
+
+
 
 <h3>🕸️Let's Connect</h3>
 <ul>
@@ -24,8 +31,7 @@ I am a Data Analyst with 3+ years of experience in data wrangling, analysis, and
 </ul>
 <!--
 
-**Projects**
-[**Excel**](https://github.com/neelamrawat9718/Coffee-sales-project-using-Excel)
+
   
 
 
