@@ -24,8 +24,8 @@ I am a Data Analyst with 3+ years of experience in data wrangling, analysis, and
 </ul>
 <!--
 
-
-* Projects
+**Projects**
+[**Excel**](https://github.com/neelamrawat9718/Coffee-sales-project-using-Excel)
   
 
 
