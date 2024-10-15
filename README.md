@@ -8,7 +8,7 @@ I am a Data Analyst with 3+ years of experience in data wrangling, analysis, and
 - **Tableau**: Designs dynamic dashboards with Tableau for interactive data visualization.
 
 
-<h3>⚙️Skills</h3>
+<h3>⚡Skills</h3>
 <ul>
   <li>Language: SQL, Python</li>
   <li>Database: PostgreSQL, MySQL, MDM</li>
@@ -25,18 +25,21 @@ I am a Data Analyst with 3+ years of experience in data wrangling, analysis, and
 - [**SQL & Tableau**](https://github.com/neelamrawat9718/Bank-Loan-Analysis---using-SQL-and-Tableau)
 - [**Tableau**](https://github.com/neelamrawat9718/Sales-and-Customer-Dashboard-Tableau)
 - [**Python**](https://github.com/neelamrawat9718/App-Reviews-Sentiment-Analysis-Python-Project-)
+  
 
-
-
-
-
-
-
-
-
-
-<h3>🕸️Let's Connect</h3>
+<h3>🏆 Achievements</h3>
 <ul>
+
+![image](https://github.com/user-attachments/assets/4e6e7aea-5b77-451d-bb29-840154eca9d9)
+
+
+[![HackerRank Certificate](https://github.com/user-attachments/assets/62d9e759-93db-4aaf-8eef-25284984921c)](https://www.hackerrank.com/certificates/2f766be4d5af)
+
+
+
+<h3>🤝 Let's Connect</h3>
+<ul>
+  
  <li><a href="https://www.linkedin.com/in/neelam-rawat-3a365a19b/">Linkedln | Neelam Rawat</a><br></li>
 </ul>
 <!--
