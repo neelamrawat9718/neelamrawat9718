@@ -37,12 +37,13 @@ I am a Data Analyst with 3+ years of experience in data wrangling, analysis, and
 
 
 
+
 <h3>🤝 Let's Connect</h3>
 <ul>
   
- <li><a href="https://www.linkedin.com/in/neelam-rawat-3a365a19b/">Linkedln | Neelam Rawat</a><br></li>
+<li><a href="https://www.linkedin.com/in/neelam-rawat-3a365a19b/">Linkedln | Neelam Rawat</a><br></li>
 </ul>
-<!--
+
 
 
   
