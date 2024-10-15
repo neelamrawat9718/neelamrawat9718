@@ -19,7 +19,17 @@ I am a Data Analyst with 3+ years of experience in data wrangling, analysis, and
 
 <h3>🖇️Projects</h3>
 <ul>
--[**Excel**](https://github.com/neelamrawat9718/Coffee-sales-project-using-Excel)
+
+- [**Excel**](https://github.com/neelamrawat9718/Coffee-sales-project-using-Excel)
+- [**SQL**](https://github.com/neelamrawat9718/Understanding-customer-behavior-and-preference--by-using-MySQL)
+- [**SQL & Tableau**](https://github.com/neelamrawat9718/Bank-Loan-Analysis---using-SQL-and-Tableau)
+- [**Tableau**](https://github.com/neelamrawat9718/Sales-and-Customer-Dashboard-Tableau)
+- [**Python**](https://github.com/neelamrawat9718/App-Reviews-Sentiment-Analysis-Python-Project-)
+
+
+
+
+
 
 
 
