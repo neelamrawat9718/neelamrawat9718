@@ -1,5 +1,6 @@
 ## Hi there 👋
-![image](https://github.com/user-attachments/assets/3887ae1b-7a81-4ef0-a61e-237b6d457e1f)
+![Uploading image.png…]()
+
 
 👋 Hello! I’m a Data Analyst with 5+ years of experience in transforming data into meaningful insights. My expertise includes 3 years in data analytics and 2 years in data processing and validation, with proficiency in SQL, Excel, Python, and data visualization tools.
 
