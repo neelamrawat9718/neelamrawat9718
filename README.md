@@ -2,7 +2,9 @@
 ![image](https://github.com/user-attachments/assets/3887ae1b-7a81-4ef0-a61e-237b6d457e1f)
 
 👋 Hello! I’m a Data Analyst with 5+ years of experience in transforming data into meaningful insights. My expertise includes 3 years in data analytics and 2 years in data processing and validation, with proficiency in SQL, Excel, Python, and data visualization tools.
+
 🔍 Specialized in data extraction, cleansing, visualization, and reporting—I focus on using advanced analytics to drive data-driven decisions, optimize processes, and build effective business solutions.
+
 🚀 Passionate about data-driven decision-making, I’m dedicated to uncovering actionable insights that empower organizations to succeed. I thrive in collaborative environments where data shapes impactful strategies and am excited to contribute to innovative, results-oriented teams.
 
 - **SQL**: Skilled in extracting and managing data using SQL queries.
