@@ -32,6 +32,7 @@
 - [**SQL & Tableau**](https://github.com/neelamrawat9718/Bank-Loan-Analysis---using-SQL-and-Tableau)
 - [**Tableau**](https://github.com/neelamrawat9718/Sales-and-Customer-Dashboard-Tableau)
 - [**Python**](https://github.com/neelamrawat9718/App-Reviews-Sentiment-Analysis-Python-Project)
+- [**Excel & PPT**](https://github.com/neelamrawat9718/retail_sales_datasets)
   
 
 <h3>🏆 Achievements</h3>
