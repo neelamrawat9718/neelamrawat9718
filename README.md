@@ -54,11 +54,12 @@
 
 <h3>🌱 Creativity</h3>
 
+[![Profile Image](https://github.com/user-attachments/assets/cff4df7a-8ad2-4bc5-aa4b-2c896fb74da2)](https://medium.com/@neelamrawat9718)
 
 
 
 
-![image](https://github.com/user-attachments/assets/cff4df7a-8ad2-4bc5-aa4b-2c896fb74da2)](https://medium.com/@neelamrawat9718).
+
 
 
   
