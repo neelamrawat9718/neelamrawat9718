@@ -52,6 +52,8 @@
 <li><a href="https://www.linkedin.com/in/neelam-rawat-3a365a19b/">Linkedln | Neelam Rawat</a><br></li>
 </ul>
 
+**Creativity Section**
+![image](https://github.com/user-attachments/assets/cff4df7a-8ad2-4bc5-aa4b-2c896fb74da2)](https://medium.com/@neelamrawat9718).
 
 
   
