@@ -26,23 +26,12 @@
 
 - [**Excel**](https://github.com/neelamrawat9718/Coffee-sales-project-using-Excel) - *Coffee Sales: Data Analysis and Visualization with Excel*
 - [**SQL**](https://github.com/neelamrawat9718/Understanding-customer-behavior-and-preference--by-using-MySQL) - *Understanding the customer behavior and preference by using SQL*
-- [**SQL & Tableau**](https://github.com/neelamrawat9718/Bank-Loan-Analysis---using-SQL-and-Tableau) -*Bank Loan Analysis with SQL and Tableau*
+- [**SQL & Tableau**](https://github.com/neelamrawat9718/Bank-Loan-Analysis---using-SQL-and-Tableau) - *Bank Loan Analysis with SQL and Tableau*
 - [**Tableau**](https://github.com/neelamrawat9718/Sales-and-Customer-Dashboard-Tableau) - *Sales and Customer Dashboards by utilizing Tableau*
 - [**Python**](https://github.com/neelamrawat9718/App-Reviews-Sentiment-Analysis-Python-Project) - *App Review Sentiment Analysis using Python*
 - [**Excel & PPT**](https://github.com/neelamrawat9718/retail_sales_datasets) - *Retail Sales - EDA*
 - [**Tableau**](https://github.com/neelamrawat9718/EDA-on-retail-sales---Tableau)-*Retail Sales Dashboard by using Tableau*
   
-
-<h3>🏆 Achievements</h3>
-<ul>
-
-![image](https://github.com/user-attachments/assets/4e6e7aea-5b77-451d-bb29-840154eca9d9)
-
-
-[![HackerRank Certificate](https://github.com/user-attachments/assets/62d9e759-93db-4aaf-8eef-25284984921c)](https://www.hackerrank.com/certificates/2f766be4d5af)
-
-
-
 
 <h3>🤝 Let's Connect</h3>
 <ul>
