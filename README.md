@@ -3,12 +3,16 @@
 <img width="1577" height="392" alt="image" src="https://github.com/user-attachments/assets/6829adc9-c609-431b-95d2-830ddf055c16" />
 
 
-
-👋 Hello! I’m an Analyst with 5+ years of experience in transforming data into meaningful insights.Proficiency in SQL, Excel, Python, and data visualization tools.
+📊 Result-Driven Data Analyst with over 5 years of experience in leveraging the data analysis and analytics techologies to extract the meaningful insights from the data.
 
 🔍 Specialized in data extraction, cleansing, visualization, and reporting—I focus on using advanced analytics to drive data-driven decisions, optimize processes, and build effective business solutions.
 
 🚀 Passionate about data-driven decision-making, I’m dedicated to uncovering actionable insights that empower organizations to succeed. I thrive in collaborative environments where data shapes impactful strategies and am excited to contribute to innovative, results-oriented teams.
+
+📚 C̳o̳n̳t̳i̳n̳u̳o̳u̳s̳ ̳L̳e̳a̳r̳n̳e̳r̳: 
+
+Passionate about the latest technologies and methodologies. Eager to embrace new challenges and learn emerging tools to enhance analytical capabilities.
+
 
 - **SQL**: Skilled in extracting and managing data using SQL queries.
 - **Python**: Employs Python for data analysis and creating visual representations.
@@ -21,8 +25,8 @@
   <li>Language: SQL, Python</li>
   <li>Database: PostgreSQL, MySQL, MDM</li>
   <li>Visualization: Looker Studio, Tableau, IBM Cognos</li>
-  <li>Spreadsheet: MS Excel</li>
-  <li>Project Management: Jira</li>
+  <li>Spreadsheet: MS Excel</li>, Google Sheets
+  <li>Project Management: Jira</li>, Confluence and Notion
 </ul>
 
 <h3>🖇️Projects</h3>
