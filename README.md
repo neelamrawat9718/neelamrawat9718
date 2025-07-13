@@ -28,7 +28,7 @@
 - [**SQL**](https://github.com/neelamrawat9718/Understanding-customer-behavior-and-preference--by-using-MySQL) - *Understanding the customer behavior and preference by using SQL*
 - [**SQL & Tableau**](https://github.com/neelamrawat9718/Bank-Loan-Analysis---using-SQL-and-Tableau) - *Bank Loan Analysis with SQL and Tableau*
 - [**Tableau**](https://github.com/neelamrawat9718/Sales-and-Customer-Dashboard-Tableau) - *Sales and Customer Dashboards by utilizing Tableau*
-- [**Python**](https://github.com/neelamrawat9718/App-Reviews-Sentiment-Analysis-Python-Project) - *App Review Sentiment Analysis using Python*
+- [**Python**](https://github.com/neelamrawat9718/App-Reviews-Sentiment-Analysis-Python-Project) - *App Reviews Sentiment Analysis using Python*
 - [**Excel & PPT**](https://github.com/neelamrawat9718/retail_sales_datasets) - *Retail Sales - EDA*
 - [**Tableau**](https://github.com/neelamrawat9718/EDA-on-retail-sales---Tableau)-*Retail Sales Dashboard by using Tableau*
   
