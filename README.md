@@ -15,7 +15,7 @@
 <h3>⚡Skills</h3>
 <ul>
   <li>Language: SQL, Python</li>
-  <li>Database: PostgreSQL, MySQL, MDM</li>
+  <li>Database: PostgreSQL, MySQL,MS SQL Server MDM</li>
   <li>Visualization: Looker Studio, Tableau, IBM Cognos</li>
   <li>Spreadsheet: MS Excel, Google Sheets </li>,
   <li>Project Management: Jira, Confluence and Notion </li>
