@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![image](https://github.com/user-attachments/assets/d1d1e4eb-7086-483c-88df-c8873388338b)
+<img width="1577" height="392" alt="image" src="https://github.com/user-attachments/assets/6829adc9-c609-431b-95d2-830ddf055c16" />
+
 
 
 👋 Hello! I’m an Analyst with 5+ years of experience in transforming data into meaningful insights.Proficiency in SQL, Excel, Python, and data visualization tools.
