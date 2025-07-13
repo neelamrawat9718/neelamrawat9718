@@ -9,15 +9,7 @@
 
 🚀 Passionate about data-driven decision-making, I’m dedicated to uncovering actionable insights that empower organizations to succeed. I thrive in collaborative environments where data shapes impactful strategies and am excited to contribute to innovative, results-oriented teams.
 
-📚 C̳o̳n̳t̳i̳n̳u̳o̳u̳s̳ ̳L̳e̳a̳r̳n̳e̳r̳: 
-
-Passionate about the latest technologies and methodologies. Eager to embrace new challenges and learn emerging tools to enhance analytical capabilities.
-
-
-- **SQL**: Skilled in extracting and managing data using SQL queries.
-- **Python**: Employs Python for data analysis and creating visual representations.
-- **Excel**: Conducts data analysis and creates reports with Microsoft Excel.
-- **Tableau**: Designs dynamic dashboards with Tableau for interactive data visualization.
+📚 Continuous Learner: Passionate about the latest technologies and methodologies. Eager to embrace new challenges and learn emerging tools to enhance analytical capabilities.
 
 
 <h3>⚡Skills</h3>
@@ -25,11 +17,11 @@ Passionate about the latest technologies and methodologies. Eager to embrace new
   <li>Language: SQL, Python</li>
   <li>Database: PostgreSQL, MySQL, MDM</li>
   <li>Visualization: Looker Studio, Tableau, IBM Cognos</li>
-  <li>Spreadsheet: MS Excel</li>, Google Sheets
-  <li>Project Management: Jira</li>, Confluence and Notion
+  <li>Spreadsheet: MS Excel, Google Sheets </li>,
+  <li>Project Management: Jira, Confluence and Notion </li>
 </ul>
 
-<h3>🖇️Projects</h3>
+<h3>🖇️Key Projects</h3>
 <ul>
 
 - [**Excel**](https://github.com/neelamrawat9718/Coffee-sales-project-using-Excel)
