@@ -3,7 +3,7 @@
 <img width="1577" height="392" alt="image" src="https://github.com/user-attachments/assets/6829adc9-c609-431b-95d2-830ddf055c16" />
 
 
-📊 Result-Driven Data Analyst with over 5 years of experience in leveraging the data analysis and analytics techologies to extract the meaningful insights from the data.
+📊 Result-Driven Data Analyst with over 5 years of experience in leveraging the data analysis and analytics techologies to extract the meaningful insights in tech consulting and market research industry.
 
 🔍 Specialized in data extraction, cleansing, visualization, and reporting—I focus on using advanced analytics to drive data-driven decisions, optimize processes, and build effective business solutions.
 
@@ -15,7 +15,7 @@
 <h3>⚡Skills</h3>
 <ul>
   <li>Language: SQL, Python</li>
-  <li>Database: PostgreSQL, MySQL,MS SQL Server MDM</li>
+  <li>Database: PostgreSQL, MySQL, MS SQL Server MDM</li>
   <li>Visualization: Looker Studio, Tableau, IBM Cognos</li>
   <li>Spreadsheet: MS Excel, Google Sheets </li>,
   <li>Project Management: Jira, Confluence and Notion </li>
