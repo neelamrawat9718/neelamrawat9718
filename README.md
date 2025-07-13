@@ -9,7 +9,7 @@
 
 🚀 Passionate about data-driven decision-making, I’m dedicated to uncovering actionable insights that empower organizations to succeed. I thrive in collaborative environments where data shapes impactful strategies and am excited to contribute to innovative, results-oriented teams.
 
-📚 Continuous Learner: Passionate about the latest technologies and methodologies. Eager to embrace new challenges and learn emerging tools to enhance analytical capabilities.
+📚 Continuous Learner: Passionate about the latest technologies and methodologies. Eager to embrace new challenges and learn emerging tools to enhance analytical capabilities and I am learning more about Data And AI 🛸
 
 
 <h3>⚡Skills</h3>
