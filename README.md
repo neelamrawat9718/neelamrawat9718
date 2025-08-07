@@ -19,6 +19,7 @@
   <li>Visualization: Looker Studio, Tableau, IBM Cognos</li>
   <li>Spreadsheet: MS Excel, Google Sheets </li>
   <li>Project Management: Jira, Confluence and Notion </li>
+  <li>Project Managemen : BigQuery, Google Cloud Platform
 </ul>
 
 <h3>🖇️Key Projects</h3>
